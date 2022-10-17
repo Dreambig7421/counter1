@@ -1,0 +1,23 @@
+#counter{
+    text-align: center;
+    font-size: 60px;
+    display: block;
+}
+#increaseBtn{
+    text-align: center;
+}
+
+.same{
+    font-size: 30px;
+    padding: 8px 40px;
+    margin-top: 40px;
+    font-weight: bolder;
+    display: inline;
+    border-radius: 10px;
+    background-color: rgba(241, 188, 40, 0.594);
+    border: none;
+}
+
+#main{
+    text-align: center;
+}
